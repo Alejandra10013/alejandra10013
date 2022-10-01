@@ -11,14 +11,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/karina10013)
-
----
-
 ### Languages and Tools 🛠 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C.svg?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
