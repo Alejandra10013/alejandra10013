@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer programmer and I'm currently a Bootcamp intern :)
+## I'm a Computer programmer and I'm currently job hunting! :)
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Node etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
@@ -17,7 +17,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933.svg?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837.svg?style=flat-square&logo=npm)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black.svg?style=flat-square&logo=JSON%20web%20tokens)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27.svg?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?style=flat-square&logo=css3)
@@ -28,9 +27,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE.svg?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6.svg?style=flat-square&logo=windows&logoColor=ffffff)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat-square&logo=freecodecamp&logoColor=green)
 
 <br/>
 
